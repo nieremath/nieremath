@@ -1,5 +1,5 @@
-### Hi there 👋🏳️‍🌈
-- 🌈 My name is Melody Niere
+### Hi there 👋
+- 🌈 My name is Melody "Mel" Niere
 - 🤓 I’m a Data Analyst
 - 📈 I have a passion for using data to drive decisions
 - 💻 My favorite tools are 📉Excel, 🗄️ SQL, 🐍 Python and 📊 Tableau
