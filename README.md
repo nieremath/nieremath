@@ -5,7 +5,7 @@
 - 💻 My favorite tools are 📉Excel, 🗄️ SQL, 🐍 Python and 📊 Tableau
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/melniere/)
 - 💹 Check out my portfolio [Data Mel](https://sites.google.com/view/datamel/)
--->
+
 
 <!--
 **nieremath/nieremath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
