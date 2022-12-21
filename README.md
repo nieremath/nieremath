@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I'm Mel
+- 🌈 My name is Melody Niere
+- 🤓 I’m a data analyst 
+- 💻 My favorite tools are 📈Excel, 🗄️ SQL, 🐍 Python and 📊 Tableau
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/melniere/)
+- ⚡ Fun fact: I love reality tv shows 📺
+-->
 
 <!--
 **nieremath/nieremath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
