@@ -1,7 +1,8 @@
 ### Hi there 👋🏳️‍🌈
 - 🌈 My name is Melody Niere
-- 🤓 I’m a data analyst 
-- 💻 My favorite tools are 📈Excel, 🗄️ SQL, 🐍 Python and 📊 Tableau
+- 🤓 I’m a Data Analyst
+- 📈 I have a passion for using data to drive decisions
+- 💻 My favorite tools are 📉Excel, 🗄️ SQL, 🐍 Python and 📊 Tableau
 - 💰 Currently looking for employment!
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/melniere/)
 - 💹 Check out my portfolio [Data Mel](https://sites.google.com/view/datamel/)
